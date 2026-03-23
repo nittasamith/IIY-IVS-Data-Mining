@@ -125,19 +125,6 @@ pip install numpy pandas matplotlib scikit-learn
 
 ---
 
-## ▶️ How to Run
-
-
-git clone https://github.com/your-username/data-mining-lab.git
-
-cd data-mining-lab
-jupyter notebook
-
-
-Open any `.ipynb` file and run all cells.
-
----
-
 ## 🎯 Learning Outcomes
 
 - Understand complete data mining workflow  
